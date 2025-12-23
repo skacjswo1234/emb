@@ -242,12 +242,7 @@ main {
         display: block !important;
     }
     
-    /* mob 이미지가 없는 섹션(h-11, h-12) 및 h-10 섹션 숨김 */
-    #section-10,
-    #section-11,
-    #section-12 {
-        display: none;
-    }
+    /* mob 이미지가 없는 섹션 숨김 (현재 모든 섹션에 모바일 이미지 있음) */
 }
 
 .hero-section {
